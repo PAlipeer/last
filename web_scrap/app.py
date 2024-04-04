@@ -58,7 +58,6 @@ for i in range(2,12):
     
     
 df=pd.DataFrame({"Product Names":Product_name,"Price":Prices,"Description":Description})
-df.to_csv("C:/Users/aipee/OneDrive/Pictures/Flipkart_mobiles_under_50000.csv")
 
 
 if __name__=="__main__":
